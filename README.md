@@ -1,4 +1,4 @@
-# projectsql4
+# projectsql4  https://app.patika.dev/alimcaglar
 film tablosunda bulunan replacement_cost sütununda bulunan birbirinden farklı değerleri sıralayınız.
 
 film tablosunda bulunan replacement_cost sütununda birbirinden farklı kaç tane veri vardır?
